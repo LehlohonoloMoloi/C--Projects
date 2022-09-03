@@ -1,0 +1,10 @@
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\bin\Debug\Sales Commission Calculator.exe.config
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\bin\Debug\Sales Commission Calculator.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\bin\Debug\Sales Commission Calculator.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\obj\Debug\Sales Commission Calculator.csprojAssemblyReference.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\obj\Debug\Sales_Commission_Calculator.Form1.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\obj\Debug\Sales_Commission_Calculator.Properties.Resources.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\obj\Debug\Sales Commission Calculator.csproj.GenerateResource.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\obj\Debug\Sales Commission Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\obj\Debug\Sales Commission Calculator.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 10\Sales Commission Calculator\Sales Commission Calculator\obj\Debug\Sales Commission Calculator.pdb
