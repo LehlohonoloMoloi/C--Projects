@@ -1,0 +1,10 @@
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe.config
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\bin\Debug\Paint Job Estimator.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csprojAssemblyReference.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint_Job_Estimator.paintJobEstimator.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint_Job_Estimator.Properties.Resources.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csproj.GenerateResource.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 4\Paint Job Estimator\Paint Job Estimator\obj\Debug\Paint Job Estimator.pdb
