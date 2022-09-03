@@ -1,0 +1,10 @@
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\bin\Debug\Charges in a Luxury Resort.exe.config
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\bin\Debug\Charges in a Luxury Resort.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\bin\Debug\Charges in a Luxury Resort.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\obj\Debug\Charges in a Luxury Resort.csprojAssemblyReference.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\obj\Debug\Charges_in_a_Luxury_Resort.Form1.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\obj\Debug\Charges_in_a_Luxury_Resort.Properties.Resources.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\obj\Debug\Charges in a Luxury Resort.csproj.GenerateResource.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\obj\Debug\Charges in a Luxury Resort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\obj\Debug\Charges in a Luxury Resort.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 11\Charges in a Luxury Resort\Charges in a Luxury Resort\obj\Debug\Charges in a Luxury Resort.pdb

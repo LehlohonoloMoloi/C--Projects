@@ -1,0 +1,11 @@
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe.config
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csprojAssemblyReference.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Form1.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Properties.Resources.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.ResultForm.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.GenerateResource.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 12\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.pdb

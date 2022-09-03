@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dorm and Meal Plan Calculator", "Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator.csproj", "{B1DBEA8F-05B7-4AC2-B89C-21A47277F37C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DBEA8F-05B7-4AC2-B89C-21A47277F37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DBEA8F-05B7-4AC2-B89C-21A47277F37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DBEA8F-05B7-4AC2-B89C-21A47277F37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DBEA8F-05B7-4AC2-B89C-21A47277F37C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF9DB90-03C6-444A-80CF-57CF89BF9F6A}
+	EndGlobalSection
+EndGlobal

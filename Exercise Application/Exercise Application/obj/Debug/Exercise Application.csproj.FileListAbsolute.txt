@@ -1,0 +1,10 @@
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\bin\Debug\Exercise Application.exe.config
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\bin\Debug\Exercise Application.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\bin\Debug\Exercise Application.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\obj\Debug\Exercise Application.csprojAssemblyReference.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\obj\Debug\Exercise_Application.caloriesBurnedThroughExercise.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\obj\Debug\Exercise_Application.Properties.Resources.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\obj\Debug\Exercise Application.csproj.GenerateResource.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\obj\Debug\Exercise Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\obj\Debug\Exercise Application.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 8\Exercise Application\Exercise Application\obj\Debug\Exercise Application.pdb
