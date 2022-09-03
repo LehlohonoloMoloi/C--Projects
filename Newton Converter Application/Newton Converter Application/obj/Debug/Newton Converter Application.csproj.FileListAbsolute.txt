@@ -1,0 +1,10 @@
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\bin\Debug\Newton Converter Application.exe.config
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\bin\Debug\Newton Converter Application.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\bin\Debug\Newton Converter Application.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\obj\Debug\Newton Converter Application.csprojAssemblyReference.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\obj\Debug\Newton_Converter_Application.newtonConverter.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\obj\Debug\Newton_Converter_Application.Properties.Resources.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\obj\Debug\Newton Converter Application.csproj.GenerateResource.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\obj\Debug\Newton Converter Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\obj\Debug\Newton Converter Application.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 5\Newton Converter Application\Newton Converter Application\obj\Debug\Newton Converter Application.pdb

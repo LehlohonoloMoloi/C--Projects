@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1B6057BF-7A43-4318-910B-3CB492CF432A}</ProjectGuid>
+    <ProjectGuid>{E7487DBB-27D2-467E-8259-6F9F596D3C87}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Paint_Job_Estimator</RootNamespace>
-    <AssemblyName>Paint Job Estimator</AssemblyName>
+    <RootNamespace>KasiFoodJoint</RootNamespace>
+    <AssemblyName>KasiFoodJoint</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\theme.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Theme2.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

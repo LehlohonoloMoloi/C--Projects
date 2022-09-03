@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1B6057BF-7A43-4318-910B-3CB492CF432A}</ProjectGuid>
+    <ProjectGuid>{3A8CF92C-6753-4FF6-860F-39E1F27F9430}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Paint_Job_Estimator</RootNamespace>
-    <AssemblyName>Paint Job Estimator</AssemblyName>
+    <RootNamespace>Newton_Converter_Application</RootNamespace>
+    <AssemblyName>Newton Converter Application</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

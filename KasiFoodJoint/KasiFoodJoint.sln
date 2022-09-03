@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint Job Estimator", "Paint Job Estimator\Paint Job Estimator.csproj", "{1B6057BF-7A43-4318-910B-3CB492CF432A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KasiFoodJoint", "KasiFoodJoint\KasiFoodJoint.csproj", "{E7487DBB-27D2-467E-8259-6F9F596D3C87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B6057BF-7A43-4318-910B-3CB492CF432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B6057BF-7A43-4318-910B-3CB492CF432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B6057BF-7A43-4318-910B-3CB492CF432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B6057BF-7A43-4318-910B-3CB492CF432A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7487DBB-27D2-467E-8259-6F9F596D3C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7487DBB-27D2-467E-8259-6F9F596D3C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7487DBB-27D2-467E-8259-6F9F596D3C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7487DBB-27D2-467E-8259-6F9F596D3C87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7F178591-601D-4ACC-BC10-5143D3A6FE07}
+		SolutionGuid = {C2B625CA-BE47-4776-9E3B-D29822E30543}
 	EndGlobalSection
 EndGlobal

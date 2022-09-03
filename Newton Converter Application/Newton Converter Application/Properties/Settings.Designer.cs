@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Paint_Job_Estimator.Properties
+namespace Newton_Converter_Application.Properties
 {
 
 

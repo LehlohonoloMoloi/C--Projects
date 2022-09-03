@@ -1,0 +1,3 @@
+This is a basic terminal for an establishment (food outlet).
+The terminal has a menu, and customers can make their orders there,
+It will estimate the total of the order, and even provide discounts if necessary.

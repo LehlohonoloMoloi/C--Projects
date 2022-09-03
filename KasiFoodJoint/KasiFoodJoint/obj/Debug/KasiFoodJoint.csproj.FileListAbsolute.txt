@@ -1,0 +1,20 @@
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\bin\Debug\KasiFoodJoint.exe.config
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\bin\Debug\KasiFoodJoint.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\bin\Debug\KasiFoodJoint.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.csprojAssemblyReference.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.Form1.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.Properties.Resources.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.csproj.GenerateResource.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\New folder\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\bin\Debug\KasiFoodJoint.exe.config
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\bin\Debug\KasiFoodJoint.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\bin\Debug\KasiFoodJoint.pdb
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.csprojAssemblyReference.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.Form1.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.Properties.Resources.resources
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.csproj.GenerateResource.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.exe
+C:\Users\Lenovo Pc\Documents\NWU\Second semester\CMPG122\Projects\Week 6\KasiFoodJoint\KasiFoodJoint\obj\Debug\KasiFoodJoint.pdb

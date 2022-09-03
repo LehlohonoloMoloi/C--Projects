@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Paint Job Estimator")]
+[assembly: AssemblyTitle("Newton Converter Application")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Paint Job Estimator")]
+[assembly: AssemblyProduct("Newton Converter Application")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1b6057bf-7a43-4318-910b-3cb492cf432a")]
+[assembly: Guid("3a8cf92c-6753-4ff6-860f-39e1f27f9430")]
 
 // Version information for an assembly consists of the following four values:
 //

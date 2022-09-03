@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Paint_Job_Estimator
+namespace Newton_Converter_Application
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Paint_Job_Estimator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new paintJobEstimator());
+            Application.Run(new newtonConverter());
         }
     }
 }
